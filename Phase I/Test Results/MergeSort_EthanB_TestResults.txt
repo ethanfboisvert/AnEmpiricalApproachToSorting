@@ -1,0 +1,62 @@
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 174.4257 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MergeSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 165.5221 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MergeSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 163.4449 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MergeSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 165.3309 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java MergeSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 200.6991 milliseconds
+
+ ----jGRASP: operation complete.

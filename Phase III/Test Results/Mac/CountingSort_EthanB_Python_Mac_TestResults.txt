@@ -1,0 +1,39 @@
+runfile('/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB.py', wdir='/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 24.303 milliseconds
+
+runfile('/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB.py', wdir='/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 24.362000000000002 milliseconds
+
+runfile('/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB.py', wdir='/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 24.402 milliseconds
+
+runfile('/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB.py', wdir='/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 24.255 milliseconds
+
+runfile('/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB.py', wdir='/Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 23.278 milliseconds

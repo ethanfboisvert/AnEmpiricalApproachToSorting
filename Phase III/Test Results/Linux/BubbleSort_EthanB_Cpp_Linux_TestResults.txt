@@ -1,0 +1,54 @@
+eboisvert@EthanVB:~$ g++ /home/eboisvert/Downloads/Programs/BubbleSort_EthanB.cpp
+eboisvert@EthanVB:~$ ./a.out
+Set size: 100000 elements
+Original Array (First 10 elements):
+61756 34109 58095 69925 25204 83809 88013 74380 72434 90120  ...
+
+Sorted Array (First 10 elements):
+1 2 4 4 5 6 7 7 8 10  ...
+
+Time taken for sorting: 42775.6 milliseconds
+
+eboisvert@EthanVB:~$ g++ /home/eboisvert/Downloads/Programs/BubbleSort_EthanB.cpp
+eboisvert@EthanVB:~$ ./a.out
+Set size: 100000 elements
+Original Array (First 10 elements):
+61756 34109 58095 69925 25204 83809 88013 74380 72434 90120  ...
+
+Sorted Array (First 10 elements):
+1 2 4 4 5 6 7 7 8 10  ...
+
+Time taken for sorting: 42736.2 milliseconds
+
+eboisvert@EthanVB:~$ g++ /home/eboisvert/Downloads/Programs/BubbleSort_EthanB.cpp
+eboisvert@EthanVB:~$ ./a.out
+Set size: 100000 elements
+Original Array (First 10 elements):
+61756 34109 58095 69925 25204 83809 88013 74380 72434 90120  ...
+
+Sorted Array (First 10 elements):
+1 2 4 4 5 6 7 7 8 10  ...
+
+Time taken for sorting: 42303.2 milliseconds
+
+eboisvert@EthanVB:~$ g++ /home/eboisvert/Downloads/Programs/BubbleSort_EthanB.cpp
+eboisvert@EthanVB:~$ ./a.out
+Set size: 100000 elements
+Original Array (First 10 elements):
+61756 34109 58095 69925 25204 83809 88013 74380 72434 90120  ...
+
+Sorted Array (First 10 elements):
+1 2 4 4 5 6 7 7 8 10  ...
+
+Time taken for sorting: 43359.9 milliseconds
+
+eboisvert@EthanVB:~$ g++ /home/eboisvert/Downloads/Programs/BubbleSort_EthanB.cpp
+eboisvert@EthanVB:~$ ./a.out
+Set size: 100000 elements
+Original Array (First 10 elements):
+61756 34109 58095 69925 25204 83809 88013 74380 72434 90120  ...
+
+Sorted Array (First 10 elements):
+1 2 4 4 5 6 7 7 8 10  ...
+
+Time taken for sorting: 43969.2 milliseconds

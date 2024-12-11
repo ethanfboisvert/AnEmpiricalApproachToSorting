@@ -1,0 +1,44 @@
+eboisvert@EthanVB:~$ python3 /home/eboisvert/Downloads/Programs/CountingSort_EthanB.py
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 52.966 milliseconds
+
+eboisvert@EthanVB:~$ python3 /home/eboisvert/Downloads/Programs/CountingSort_EthanB.py
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 48.894 milliseconds
+
+eboisvert@EthanVB:~$ python3 /home/eboisvert/Downloads/Programs/CountingSort_EthanB.py
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 54.358 milliseconds
+
+eboisvert@EthanVB:~$ python3 /home/eboisvert/Downloads/Programs/CountingSort_EthanB.py
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 52.912 milliseconds
+
+eboisvert@EthanVB:~$ python3 /home/eboisvert/Downloads/Programs/CountingSort_EthanB.py
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 53.563 milliseconds

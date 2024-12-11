@@ -1,0 +1,54 @@
+ ----jGRASP exec: /Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB
+Set size: 100000 elements
+Original Array (First 10 elements):
+27885 56964 42422 83852 80285 34673 12098 86018 12346 99349  ...
+
+Sorted Array (First 10 elements):
+0 0 2 2 3 5 6 8 9 10  ...
+
+Time taken for sorting: 3.269 milliseconds
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: /Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB
+Set size: 100000 elements
+Original Array (First 10 elements):
+27885 56964 42422 83852 80285 34673 12098 86018 12346 99349  ...
+
+Sorted Array (First 10 elements):
+0 0 2 2 3 5 6 8 9 10  ...
+
+Time taken for sorting: 3.066 milliseconds
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: /Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB
+Set size: 100000 elements
+Original Array (First 10 elements):
+27885 56964 42422 83852 80285 34673 12098 86018 12346 99349  ...
+
+Sorted Array (First 10 elements):
+0 0 2 2 3 5 6 8 9 10  ...
+
+Time taken for sorting: 3.234 milliseconds
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: /Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB
+Set size: 100000 elements
+Original Array (First 10 elements):
+27885 56964 42422 83852 80285 34673 12098 86018 12346 99349  ...
+
+Sorted Array (First 10 elements):
+0 0 2 2 3 5 6 8 9 10  ...
+
+Time taken for sorting: 2.72 milliseconds
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: /Volumes/Professional Seminar/BEWeek8/BEWeek8/Phase 2 Data/CountingSort_EthanB
+Set size: 100000 elements
+Original Array (First 10 elements):
+27885 56964 42422 83852 80285 34673 12098 86018 12346 99349  ...
+
+Sorted Array (First 10 elements):
+0 0 2 2 3 5 6 8 9 10  ...
+
+Time taken for sorting: 2.984 milliseconds
+ ----jGRASP: operation complete.

@@ -1,0 +1,62 @@
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 1539264.4921 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BubbleSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 1530443.2066 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BubbleSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 1552594.8172 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BubbleSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 1549414.8836 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BubbleSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+743038 443073 262822 314142 95348 463896 10781 44356 268676 55292  ...
+
+Sorted Array (First 10 elements):
+1 1 2 3 4 6 6 6 7 10  ...
+
+Time taken for sorting: 1546713.4833 milliseconds
+
+ ----jGRASP: operation complete.

@@ -1,0 +1,62 @@
+Set size: 1000000 elements
+Original Array (First 10 elements):
+0.68160844 0.06819284 0.65949875 0.009459496 0.87129664 0.98788357 0.5867382 0.68221444 0.5835987 0.7734891  ...
+
+Sorted Array (First 10 elements):
+1.66893E-6 1.9073486E-6 5.2452087E-6 5.4240227E-6 5.7816505E-6 9.4771385E-6 1.04904175E-5 1.1980534E-5 1.21593475E-5 1.40070915E-5  ...
+
+Time taken for sorting: 344.428 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BucketSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+0.68160844 0.06819284 0.65949875 0.009459496 0.87129664 0.98788357 0.5867382 0.68221444 0.5835987 0.7734891  ...
+
+Sorted Array (First 10 elements):
+1.66893E-6 1.9073486E-6 5.2452087E-6 5.4240227E-6 5.7816505E-6 9.4771385E-6 1.04904175E-5 1.1980534E-5 1.21593475E-5 1.40070915E-5  ...
+
+Time taken for sorting: 339.4008 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BucketSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+0.68160844 0.06819284 0.65949875 0.009459496 0.87129664 0.98788357 0.5867382 0.68221444 0.5835987 0.7734891  ...
+
+Sorted Array (First 10 elements):
+1.66893E-6 1.9073486E-6 5.2452087E-6 5.4240227E-6 5.7816505E-6 9.4771385E-6 1.04904175E-5 1.1980534E-5 1.21593475E-5 1.40070915E-5  ...
+
+Time taken for sorting: 336.1002 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BucketSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+0.68160844 0.06819284 0.65949875 0.009459496 0.87129664 0.98788357 0.5867382 0.68221444 0.5835987 0.7734891  ...
+
+Sorted Array (First 10 elements):
+1.66893E-6 1.9073486E-6 5.2452087E-6 5.4240227E-6 5.7816505E-6 9.4771385E-6 1.04904175E-5 1.1980534E-5 1.21593475E-5 1.40070915E-5  ...
+
+Time taken for sorting: 345.116 milliseconds
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java BucketSort_EthanB
+
+Set size: 1000000 elements
+Original Array (First 10 elements):
+0.68160844 0.06819284 0.65949875 0.009459496 0.87129664 0.98788357 0.5867382 0.68221444 0.5835987 0.7734891  ...
+
+Sorted Array (First 10 elements):
+1.66893E-6 1.9073486E-6 5.2452087E-6 5.4240227E-6 5.7816505E-6 9.4771385E-6 1.04904175E-5 1.1980534E-5 1.21593475E-5 1.40070915E-5  ...
+
+Time taken for sorting: 332.8048 milliseconds
+
+ ----jGRASP: operation complete.

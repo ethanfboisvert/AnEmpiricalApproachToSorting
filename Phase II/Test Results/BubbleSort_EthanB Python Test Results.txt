@@ -1,0 +1,39 @@
+runfile('C:/Users/Gogos/.spyder-py3/Projects/BubbleSort_EthanB.py', wdir='C:/Users/Gogos/.spyder-py3/Projects')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 821506.072 milliseconds
+
+runfile('C:/Users/Gogos/.spyder-py3/Projects/BubbleSort_EthanB.py', wdir='C:/Users/Gogos/.spyder-py3/Projects')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 893515.593 milliseconds
+
+runfile('C:/Users/Gogos/.spyder-py3/Projects/BubbleSort_EthanB.py', wdir='C:/Users/Gogos/.spyder-py3/Projects')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 977784.2490000001 milliseconds
+
+runfile('C:/Users/Gogos/.spyder-py3/Projects/BubbleSort_EthanB.py', wdir='C:/Users/Gogos/.spyder-py3/Projects')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 906567.787 milliseconds
+
+runfile('C:/Users/Gogos/.spyder-py3/Projects/BubbleSort_EthanB.py', wdir='C:/Users/Gogos/.spyder-py3/Projects')
+Set size: 100000 elements
+Original Array (First 10 elements):
+25342 35985 21109 16800 73560 92897 13999 20106 33478 53970  ...
+Sorted Array (First 10 elements):
+0 3 3 5 6 7 7 7 7 7  ...
+Time taken for sorting: 989357.892 milliseconds
